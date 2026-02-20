@@ -1,4 +1,4 @@
-# 🍋 YouTube AI 视频输出Html笔记🍋
+# 🍋 YouTube AI 视频输出html笔记🍋
 
 自动提取视频字幕，并利用大语言模型总结文本内容，生成一份HTML格式的笔记。
 
@@ -23,7 +23,7 @@
 如果想在本地运行：
 ```bash
 # 克隆仓库
-git clone [https://github.com/lemonhhh/lemon-yt-agent.git](https://github.com/lemonhhh/lemon-yt-agent.git)
+git clone https://github.com/lemonhhh/lemon-yt-agent.git
 cd lemon-yt-agent
 
 # 安装依赖
